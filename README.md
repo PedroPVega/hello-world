@@ -1,5 +1,4 @@
 # ME
-A short repository to start learning to use GitHub
 I am **PEDRO PABLO VEGA**
 I am *20* years old
 I like
