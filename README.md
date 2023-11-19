@@ -9,3 +9,7 @@ I like :
 5. **sleeping**
 
 I am into fantasy and I like going for a walk
+
+I enjoy reading books and a good cup of coffee on a **rainy** day
+
+My favorite season is spring
